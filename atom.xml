@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">喂，前面可是地狱啊</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2021-07-23T06:56:14&#43;08:00</updated>
+    <id>https://Margaret-Zhang.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://Margaret-Zhang.github.io/atom.xml" />
+    <author>
+            <name>喂，前面可是地狱啊</name>
+            <uri>https://Margaret-Zhang.github.io/</uri>
+            
+                <email>3250127220@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.82.0">Hugo</generator>
+        <entry>
+            <title type="text">Disk</title>
+            <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/posts/disk/" />
+            <id>https://Margaret-Zhang.github.io/posts/disk/</id>
+            <updated>2021-07-22T07:12:47&#43;08:00</updated>
+            <published>2021-03-22T21:59:35&#43;08:00</published>
+            <author>
+                    <name>喂，前面可是地狱啊</name>
+                    <uri>https://Margaret-Zhang.github.io</uri>
+                    <email>3250127220@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">硬盘分区表 /dev/nvme0n1(SSD, 476.94G) EFI(fat32) Arch Linux(/,ext4) Arch Linux(/,ext4) Windows 10 System(C:\,ntfs) Windows 10 Data(D:\,ntfs) 500M 180G 76G 70G 150G Windows 10 Data(D:\) {Software:Environment:Assignments:Games:Downloads:Documents:Repository} /dev/sda(HDD, 465.76G) PACKAGE(ext4) EMPTY 200G 265.6G PACKAGE{archlinux,archlinuxcn,maven,virtualbox} -&amp;gt; archlinux: Arch Linux Official Repository Packages(core,extra,community) -&amp;gt; archlinuxcn: Arch Linux CN Reposity Packages(x86_64) -&amp;gt; maven: Maven Local Repository -&amp;gt; virtualbox: Backup for VirtualBox VDI</summary>
+            
+                <content type="html">&lt;h3 id=&#34;硬盘分区表&#34;&gt;硬盘分区表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;/dev/nvme0n1(SSD, 476.94G)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;EFI(fat32)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Arch Linux(/,ext4)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Arch Linux(/,ext4)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Windows 10 System(C:\,ntfs)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Windows 10 Data(D:\,ntfs)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500M&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;180G&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;76G&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;70G&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150G&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Windows 10 Data(D:\)&lt;/p&gt;
+&lt;p&gt;{Software:Environment:Assignments:Games:Downloads:Documents:Repository}&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;/dev/sda(HDD, 465.76G)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;PACKAGE(ext4)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;EMPTY&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200G&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;265.6G&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;PACKAGE{archlinux,archlinuxcn,maven,virtualbox}&lt;/p&gt;
+&lt;p&gt;-&amp;gt; archlinux: Arch Linux Official Repository Packages(core,extra,community)&lt;/p&gt;
+&lt;p&gt;-&amp;gt; archlinuxcn: Arch Linux CN Reposity Packages(x86_64)&lt;/p&gt;
+&lt;p&gt;-&amp;gt; maven: Maven Local Repository&lt;/p&gt;
+&lt;p&gt;-&amp;gt; virtualbox: Backup for VirtualBox VDI&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/disk/" term="disk" label="disk" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Arch Linux中gdm无法开机启动</title>
+            <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/posts/gdm_problem/" />
+            <id>https://Margaret-Zhang.github.io/posts/gdm_problem/</id>
+            <updated>2021-05-03T22:29:32&#43;08:00</updated>
+            <published>2021-03-03T22:18:10&#43;08:00</published>
+            <author>
+                    <name>喂，前面可是地狱啊</name>
+                    <uri>https://Margaret-Zhang.github.io</uri>
+                    <email>3250127220@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">URL: https://bbs.archlinux.org/viewtopic.php?id=256896 问题描述: 启用了gdm服务(systemctl enable gdm)的Arch Linux开机需通过切换tty才能显示登录界面。一开始搜索……</summary>
+            
+                <content type="html">&lt;p&gt;URL: &lt;a href=&#34;https://bbs.archlinux.org/viewtopic.php?id=256896&#34;&gt;https://bbs.archlinux.org/viewtopic.php?id=256896&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;问题描述: 启用了gdm服务(&lt;code&gt;systemctl enable gdm&lt;/code&gt;)的Arch Linux开机需通过切换tty才能显示登录界面。一开始搜索互联网有人认为是系统熵值(&lt;code&gt;&amp;lt;1000&lt;/code&gt;)的问题，但检查系统熵值并不低。GNOME换用sddm登录时，可以正常登录，但是GNOME不支持使用sddm锁定计算机。&lt;/p&gt;
+&lt;p&gt;问题解决: 修改gdm服务(&lt;code&gt;/usr/lib/systemd/system/gdm.service&lt;/code&gt;)的属性，在[Service]下添加Type和ExecStartPre及其对应的属性。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[Unit]
+Description=GNOME Display Manager
+
+# replaces the getty
+Conflicts=getty@tty1.service
+After=getty@tty1.service
+
+# replaces plymouth-quit since it quits plymouth on its own
+Conflicts=
+After=
+
+# Needs all the dependencies of the services it&#39;s replacing
+# pulled from getty@.service and 
+# (except for plymouth-quit-wait.service since it waits until
+# plymouth is quit, which we do)
+After=rc-local.service plymouth-start.service systemd-user-sessions.service
+
+# GDM takes responsibility for stopping plymouth, so if it fails
+# for any reason, make sure plymouth still stops
+OnFailure=plymouth-quit.service
+
+[Service]
+Type=idle #搁置类型
+ExecStartPre=/bin/sleep 1 #睡眠1秒
+ExecStart=/usr/bin/gdm
+KillMode=mixed
+Restart=always
+IgnoreSIGPIPE=no
+BusName=org.gnome.DisplayManager
+EnvironmentFile=-/etc/locale.conf
+ExecReload=/bin/kill -SIGHUP $MAINPID
+KeyringMode=shared
+
+[Install]
+Alias=display-manager.service
+&lt;/code&gt;&lt;/pre&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/categories/problem/" term="Problem" label="Problem" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/gnome/" term="GNOME" label="GNOME" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Arch Linux用上思维导图软件Mindmaster</title>
+            <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/posts/mindmaster/" />
+            <id>https://Margaret-Zhang.github.io/posts/mindmaster/</id>
+            <updated>2021-04-26T16:24:53&#43;08:00</updated>
+            <published>2021-01-26T15:50:12&#43;08:00</published>
+            <author>
+                    <name>喂，前面可是地狱啊</name>
+                    <uri>https://Margaret-Zhang.github.io</uri>
+                    <email>3250127220@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">首先感谢CSDN博主饕餮人的贡献：解决 Arch/Manjaro Linux AUR 的 MindMaster 无法输入中文和登录的问题 MindMaster是一款基于云的跨端思维导图软件，它可……</summary>
+            
+                <content type="html">&lt;p&gt;首先感谢CSDN博主&lt;code&gt;饕餮人&lt;/code&gt;的贡献：&lt;a href=&#34;https://blog.csdn.net/taotieren/article/details/107137068&#34;&gt;解决  Arch/Manjaro Linux AUR 的 MindMaster 无法输入中文和登录的问题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.edrawsoft.cn/mindmaster/&#34;&gt;MindMaster&lt;/a&gt;是一款基于云的跨端思维导图软件，它可以将纷繁复杂的想法、知识和信息，如学习笔记、会议纪要、项目需求等简化成一张张清晰的思维导图，以结构化有序化的方式呈现，提高归纳、学习和记忆的效率，方便展示和讲解。&lt;/p&gt;
+&lt;p&gt;官方网站只提供了Deb和RPM格式的二进制包，Arch Linux并不能直接安装。下面给出两种方案：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;PKGBUILD&lt;/p&gt;
+&lt;p&gt;AUR仓库中有MindMaster的PKGBUILD（可以理解为打包脚本），它的git地址为&lt;code&gt;git clone https://aur.archlinux.org/mindmaster-cn.git &lt;/code&gt;。克隆之后，里面的PKGBUILD是这样的：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Maintainer: Shen ZhongLi &amp;lt;szl921818@gmail.com&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;c1&#34;&gt;#mindmaster 中文版&lt;/span&gt;
+   
+&lt;span class=&#34;nv&#34;&gt;pkgname&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;mindmaster-cn
+&lt;span class=&#34;nv&#34;&gt;pkgver&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;7.2
+&lt;span class=&#34;nv&#34;&gt;pkgrel&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;arch&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;x86_64&amp;#39;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;options&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=(&lt;/span&gt;!strip&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;conflicts&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;mindmaster&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;pkgdesc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;多功能，高颜值，易使用的专业思维导图软件&amp;#34;&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;license&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Commercial&amp;#39;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://www.edrawsoft.cn/mindmaster/&amp;#34;&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;source_x86_64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://www.edrawsoft.cn/2download/mindmaster-7-amd64-cn.deb&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;sha256sums_x86_64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;d098c54122ac1155ea4e287e16c12e529020437e5f83d2e1707b2ee123300c70&amp;#39;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+   
+package&lt;span class=&#34;o&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;	
+    &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
+    tar xf &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;srcdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;/data.tar.xz&amp;#34;&lt;/span&gt;
+       
+    mkdir -p &lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;/usr/bin
+    mkdir -p &lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;/usr/share/icons
+    mkdir -p &lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;/usr/share/icons/hicolor/scalable/mimetypes
+    mkdir -p &lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;/usr/share/mime/packages
+       
+    ln -f -s /opt/MindMaster-7/MindMaster &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;/usr/bin/mindmaster&amp;#34;&lt;/span&gt;
+       
+    ln -f -s /opt/MindMaster-7/mindmaster.png &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;/usr/share/icons/mindmaster.png&amp;#34;&lt;/span&gt;
+       
+    ln -f -s /opt/MindMaster-7/emmx.svg &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;/usr/share/icons/hicolor/scalable/mimetypes/emmx.svg&amp;#34;&lt;/span&gt;
+       
+    ln -f -s /opt/MindMaster-7/mindmaster.xml &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;/usr/share/mime/packages/mindmaster.xml&amp;#34;&lt;/span&gt;
+       
+    cp /usr/lib/qt/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;${&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;pkgdir&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;/opt/MindMaster-7/plugins/platforminputcontexts/&amp;#34;&lt;/span&gt;
+       
+&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;而目前官方已经推出了&lt;code&gt;8.5.2&lt;/code&gt;版本，因此你可以更改版本号和deb包的url、sha256sums。编译打包使用&lt;code&gt;makepkg -si&lt;/code&gt;即可。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;懒人专用&lt;/p&gt;
+&lt;p&gt;​	博主&lt;code&gt;饕餮人&lt;/code&gt;的&lt;a href=&#34;https://github.com/taotieren/arch_aur/tree/mindmaster_cn&#34;&gt;github仓库&lt;/a&gt;维护了最新的PKGBUILD，更棒的是直接提供了安装包，下载之后使用pacman本地安装（-U选项）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;-EOF-&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/categories/gnu/linux/" term="GNU/Linux" label="GNU/Linux" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/arch-linux/" term="Arch Linux" label="Arch Linux" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/mindmaster/" term="MindMaster" label="MindMaster" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">GNU/Linux MySQL-8.0.20安装记录</title>
+            <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/posts/mysql_install/" />
+            <id>https://Margaret-Zhang.github.io/posts/mysql_install/</id>
+            <updated>2021-04-03T22:04:04&#43;08:00</updated>
+            <published>2020-11-13T21:33:55&#43;08:00</published>
+            <author>
+                    <name>喂，前面可是地狱啊</name>
+                    <uri>https://Margaret-Zhang.github.io</uri>
+                    <email>3250127220@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">GNU/Linux安装MySQL-8.0.20通用二进制离线包（以systemd管理） 注意：以下命令均由超级管理员（root）执……</summary>
+            
+                <content type="html">&lt;h4 id=&#34;gnulinux安装mysql-8020通用二进制离线包以systemd管理&#34;&gt;GNU/Linux安装MySQL-8.0.20通用二进制离线包（以systemd管理）&lt;/h4&gt;
+&lt;p&gt;注意：以下命令均由超级管理员（root）执行&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;将安装包移动到自定义的位置（推荐/usr/local）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; /usr/local
+tar -xf /path/to/mysql-8.0.20-linux-glibc2.12-x86_64.tar.xz
+mv mysql-8.0.20-linux-glibc2.12-x86_64 mysql
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创建mysql组和用户，创建目录并安装&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;groupadd mysql
+useradd -r -g mysql -s /bin/false mysql
+&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; /usr/local/mysql
+mkdir mysql-files
+chown mysql:mysql mysql-files
+chmod &lt;span class=&#34;m&#34;&gt;750&lt;/span&gt; mysql-files
+   
+&lt;span class=&#34;c1&#34;&gt;#初始化mysqld服务，生成初始密码（如果需要用自定义配置，可以在加上--defaults-file选项）&lt;/span&gt;
+bin/mysqld --initialize --user&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;mysql --basedir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/usr/local/mysql --datadir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/usr/local/mysql/data
+   
+&lt;span class=&#34;c1&#34;&gt;#开启SSL&lt;/span&gt;
+bin/mysql_ssl_rsa_setup
+   
+&lt;span class=&#34;c1&#34;&gt;#启动mysqld服务&lt;/span&gt;
+support-files/mysql.server start
+   
+&lt;span class=&#34;c1&#34;&gt;#使用初始密码登录mysql&lt;/span&gt;
+bin/mysql -u root -p
+   
+&lt;span class=&#34;c1&#34;&gt;#在mysql当中修改root密码&lt;/span&gt;
+&lt;span class=&#34;c1&#34;&gt;# ALTER USER &amp;#39;root&amp;#39;@&amp;#39;localhost&amp;#39; IDENTIFIED WITH mysql_native_password BY &amp;#39;&amp;lt;new password&amp;gt;&amp;#39;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用systemd管理mysqld服务&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;43
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;44
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;45
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;46
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;47
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;48
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;49
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;50
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;51
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;52
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;53
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;54
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;55
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;56
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;57
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#创建mysql日志文件目录&lt;/span&gt;
+mkdir /var/log/mysql
+touch /var/log/mysql/mysql.log
+chown -R mysql:mysql /var/log/mysql
+   
+mkdir /var/lib/mysql
+chmod &lt;span class=&#34;m&#34;&gt;755&lt;/span&gt; /var/lib/mysql
+mkdir /var/run/mysql
+chown -R mysql:mysql /var/run/mysql
+   
+&lt;span class=&#34;c1&#34;&gt;#修改mysql.server的basedir和datadir&lt;/span&gt;
+vim /usr/local/mysql/support-files/mysql.server
+   
+&lt;span class=&#34;c1&#34;&gt;#创建mysqld.service文件用于systemd管理&lt;/span&gt;
+cat &amp;gt; /usr/lib/systemd/system/mysqld.service &amp;lt;&amp;lt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;EOF&amp;#34;&lt;/span&gt;
+&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;Unit&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;Description&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;MySQL Server
+&lt;span class=&#34;nv&#34;&gt;Documentation&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;man:mysqld&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;8&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;Documentation&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;http://dev.mysql.com/doc/refman/en/using-systemd.html
+&lt;span class=&#34;nv&#34;&gt;After&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;network.target
+&lt;span class=&#34;nv&#34;&gt;After&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;syslog.target
+   
+&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;Install&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;WantedBy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;multi-user.target
+   
+&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;Service&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;User&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;mysql
+&lt;span class=&#34;nv&#34;&gt;Group&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;mysql
+   
+&lt;span class=&#34;c1&#34;&gt;# Have mysqld write its state to the systemd notify socket&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;Type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;forking
+   
+&lt;span class=&#34;c1&#34;&gt;# Disable service start and stop timeout logic of systemd for mysqld service.&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;TimeoutSec&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;
+   
+&lt;span class=&#34;c1&#34;&gt;# Start main service&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;ExecStart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/usr/local/mysql/bin/mysqld --daemonize
+   
+&lt;span class=&#34;c1&#34;&gt;# Use this to switch malloc implementation&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;EnvironmentFile&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;-/etc/sysconfig/mysql
+   
+&lt;span class=&#34;c1&#34;&gt;# Sets open_files_limit&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;LimitNOFILE&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;10000&lt;/span&gt;
+   
+&lt;span class=&#34;nv&#34;&gt;Restart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;on-failure
+   
+&lt;span class=&#34;nv&#34;&gt;RestartPreventExitStatus&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+   
+&lt;span class=&#34;c1&#34;&gt;# Set environment variable MYSQLD_PARENT_PID. This is required for restart.&lt;/span&gt;
+&lt;span class=&#34;nv&#34;&gt;Environment&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;MYSQLD_PARENT_PID&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+   
+&lt;span class=&#34;nv&#34;&gt;PrivateTmp&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;false&lt;/span&gt;
+EOF
+chmod &lt;span class=&#34;m&#34;&gt;644&lt;/span&gt; /usr/lib/systemd/system/mysqld.service
+   
+&lt;span class=&#34;c1&#34;&gt;#开机启动&lt;/span&gt;
+systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; mysqld
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;解决动态链接库问题&#34;&gt;解决动态链接库问题&lt;/h4&gt;
+&lt;p&gt;​	实测Arch Linux在安装过程中，进入MySQL控制台失败，错误提示“libtinfo.so.5动态链接库不存在”。解决方法是archlinuxcn仓库中有&lt;code&gt;ncurse5-compat-libs&lt;/code&gt;软件包，安装之后正常进入MySQL控制台。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Microsoft Windows平台安装MySQL-8.0.20的步骤请移步&lt;a href=&#34;https://github.com/Margaret-Zhang/records/blob/master/windows_mysql_8.0.20.docx&#34;&gt;记录仓库&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;-EOF-&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/categories/installation/" term="Installation" label="Installation" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/mysql/" term="MySQL" label="MySQL" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">使用Hugo &#43; Github Pages部署博客</title>
+            <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/posts/blog/" />
+            <id>https://Margaret-Zhang.github.io/posts/blog/</id>
+            <updated>2021-04-03T21:23:09&#43;08:00</updated>
+            <published>2020-10-03T19:04:53&#43;08:00</published>
+            <author>
+                    <name>喂，前面可是地狱啊</name>
+                    <uri>https://Margaret-Zhang.github.io</uri>
+                    <email>3250127220@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">使用的操作系统: Arch Linux 需要git操作基础 安装Hugo ​ Hugo官方的定义是: Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. ​ Arch Linux……</summary>
+            
+                <content type="html">&lt;h6 id=&#34;使用的操作系统-arch-linuxhttpswwwarchlinuxorg&#34;&gt;使用的操作系统: &lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/h6&gt;
+&lt;h6 id=&#34;需要git操作基础&#34;&gt;需要git操作基础&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装Hugo&lt;/p&gt;
+&lt;p&gt;​	&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;官方的定义是: Hugo is a fast and modern static site generator written in Go, and   designed to make website creation fun again.&lt;/p&gt;
+&lt;p&gt;​	Arch Linux的官方的软件源里有hugo。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo pacman -S hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;​      其他发行版也应该能有包管理器安装，比如Debian系的apt， RHEL系的yum，实在不行可以上官网下载然后阅读文档安装。&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;创建博客目录&lt;/p&gt;
+&lt;p&gt;​	Hugo项目就是一个博客。例如，在用户目录(~)下创建名为Blog的项目:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new site Blog
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​	创建完成后，在 &lt;strong&gt;Blog&lt;/strong&gt;文件夹下会生成以下文件结构：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.
+├── archetypes  # 存放生成博客的模版
+├── assets      # 存放被 Hugo Pipes 处理的文件
+├── config      # 存放 hugo 配置文件 支持 JSON YAML TOML 三种格式配置文件
+├── content     # 存放 markdown 文件
+├── data        # 存放 Hugo 处理的数据
+├── layouts     # 存放布局文件
+├── static      # 存放静态文件 图片 CSS JS文件
+└── themes      # 存放主题
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载主题并创建第一篇博客文章&lt;/p&gt;
+&lt;p&gt;​	在Blog文件夹， themes就是存放主题的位置，你可以浏览&lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo官方主题网站&lt;/a&gt;选择你喜欢的主题，并按照说明文档将主题从github/gitlab下载到本地。比如:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/reuixiy/hugo-theme-meme themes/meme
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​	克隆操作后面的url就是主题的github地址，下载好就能开始写博客了。&lt;/p&gt;
+&lt;p&gt;​	Blog下的&lt;code&gt;config.toml&lt;/code&gt;是整个博客的配置文件，比如博客的主题，标题等等。将 &lt;code&gt;config.toml&lt;/code&gt; 替换为&lt;a href=&#34;https://github.com/reuixiy/hugo-theme-meme/blob/master/config-examples/zh-cn/config.toml&#34;&gt;示例配置&lt;/a&gt;。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mv config.toml config.toml.bak &amp;amp;&amp;amp; cp themes/meme/config-examples/zh-cn/config.toml config.toml
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​	新建一篇文章和一个关于页面：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new posts/hello-world.md
+hugo new about/_index.md
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​	在&lt;code&gt;Blog/content/posts/hello-world.md&lt;/code&gt;文件中以markdown的格式写上内容， 最后在本地运行Hugo:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​	Hugo会默认选用localhost:1313这个端口，在浏览器中查看效果时输入地址: &lt;code&gt;localhost:1313&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;部署到Github Pages&lt;/p&gt;
+&lt;p&gt;​	创建一个github远程仓库， 名字格式为&lt;code&gt;[your name].github.io&lt;/code&gt;, 比如 &lt;code&gt;link.github.io&lt;/code&gt;， 并在本地生成好ssh密钥对， 以便于上传数据。&lt;/p&gt;
+&lt;p&gt;​	在Blog下执行&lt;code&gt;hugo&lt;/code&gt; (直接输入hugo) ， 生成成功后， 会多出一个名为public的文件夹， 此文件夹就是我们要上传到github远程仓库的所有文件。接下来:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git init
+git add . &amp;amp;&amp;amp; git commit -m &#39;first commit&#39; &amp;amp;&amp;amp; git branch -M master
+git remote add git@github.com:xxx/xxx.github. io
+git push -u origin
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;友情链接: &lt;a href=&#34;https://io-oi.me/tech/documentation-of-hugo-theme-meme/&#34;&gt;MemE 主题中文文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;-EOF-&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/categories/blog/" term="Blog" label="Blog" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/hugo/" term="Hugo" label="Hugo" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/github-pages/" term="Github Pages" label="Github Pages" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Markdown基本语法</title>
+            <link rel="alternate" type="text/html" href="https://Margaret-Zhang.github.io/posts/markdown/" />
+            <id>https://Margaret-Zhang.github.io/posts/markdown/</id>
+            <updated>2021-05-03T08:53:18&#43;08:00</updated>
+            <published>2020-04-26T22:10:06&#43;08:00</published>
+            <author>
+                    <name>喂，前面可是地狱啊</name>
+                    <uri>https://Margaret-Zhang.github.io</uri>
+                    <email>3250127220@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Markdown 标题语法 要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题 (&amp;lt;h3&amp;gt;) (例如：##……</summary>
+            
+                <content type="html">&lt;h3 id=&#34;markdown-标题语法&#34;&gt;Markdown 标题语法&lt;/h3&gt;
+&lt;p&gt;要创建标题，请在单词或短语前面添加井号 (&lt;code&gt;#&lt;/code&gt;) 。&lt;code&gt;#&lt;/code&gt; 的数量代表了标题的级别。例如，添加三个 &lt;code&gt;#&lt;/code&gt; 表示创建一个三级标题 (&lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt;) (例如：&lt;code&gt;### My Header&lt;/code&gt;)。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Markdown语法&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;HTML&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;# Heading level 1&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;Heading level 1&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;## Heading level 2&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;&amp;lt;h2&amp;gt;Heading level 2&amp;lt;/h2&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;### Heading level 3&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;&amp;lt;h3&amp;gt;Heading level 3&amp;lt;/h3&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;#### Heading level 4&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;&amp;lt;h4&amp;gt;Heading level  4&amp;lt;/h4&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;##### Heading level 5&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;&amp;lt;h5&amp;gt;Heading level 5&amp;lt;/h5&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;###### Heading level 6&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;&amp;lt;h6&amp;gt;Heading level 6&amp;lt;/h6&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;markdown-强调语法&#34;&gt;Markdown 强调语法&lt;/h3&gt;
+&lt;h4 id=&#34;粗体bold&#34;&gt;粗体（Bold）&lt;/h4&gt;
+&lt;p&gt;要加粗文本，请在单词或短语的前后各添加两个星号（asterisks）或下划线（underscores）。如需加粗一个单词或短语的中间部分用以表示强调的话，请在要加粗部分的两侧各添加两个星号（asterisks）。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Markdown语法&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;预览效果&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;**Arch**&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Arch&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;斜体italic&#34;&gt;斜体（Italic）&lt;/h4&gt;
+&lt;p&gt;要用斜体显示文本，请在单词或短语前后添加一个星号（asterisk）或下划线（underscore）。要斜体突出单词的中间部分，请在字母前后各添加一个星号，中间不要带空格。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Markdown语法&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;预览效果&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;*Arch*&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;em&gt;Arch&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;粗体bold和斜体italic&#34;&gt;粗体（Bold）和斜体（Italic）&lt;/h4&gt;
+&lt;p&gt;要同时用粗体和斜体突出显示文本，请在单词或短语的前后各添加三个星号或下划线。要加粗并用斜体显示单词或短语的中间部分，请在要突出显示的部分前后各添加三个星号，中间不要带空格。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Markdown语法&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;预览效果&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;***Arch***&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;em&gt;&lt;strong&gt;Arch&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-引用语法&#34;&gt;Markdown 引用语法&lt;/h4&gt;
+&lt;p&gt;要创建块引用，请在段落前添加一个 &lt;code&gt;&amp;gt;&lt;/code&gt; 符号。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; Dorothy followed her through many of the beautiful rooms in her castle.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;渲染效果如下所示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dorothy followed her through many of the beautiful rooms in her castle.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-列表语法&#34;&gt;Markdown 列表语法&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;有序列表&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;要创建有序列表，请在每个列表项前添加数字并紧跟一个英文句点。数字不必按数学顺序排列，但是列表应当以数字 1 起始。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;无序列表&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;要创建无序列表，请在每个列表项前面添加破折号 (-)、星号 (*) 或加号 (+) 。缩进一个或多个列表项可创建嵌套列表。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-分隔线语法&#34;&gt;Markdown 分隔线语法&lt;/h4&gt;
+&lt;p&gt;要创建分隔线，请在单独一行上使用三个或多个星号 (&lt;code&gt;***&lt;/code&gt;)、破折号 (&lt;code&gt;---&lt;/code&gt;) 或下划线 (&lt;code&gt;___&lt;/code&gt;) ，并且不能包含其他内容。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-代码语法&#34;&gt;Markdown 代码语法&lt;/h4&gt;
+&lt;p&gt;要将单词或短语表示为代码，请将其包裹在反引号 (```) 中。&lt;/p&gt;
+&lt;p&gt;转义反引号: 如果你要表示为代码的单词或短语中包含一个或多个反引号，则可以通过将单词或短语包裹在双反引号(````)中。&lt;/p&gt;
+&lt;p&gt;围栏代码块: 代码块之前和之后的行上使用三个反引号（(`````）或三个波浪号（~~~）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-链接语法&#34;&gt;Markdown 链接语法&lt;/h4&gt;
+&lt;p&gt;链接文本放在中括号内，链接地址放在后面的括号中，链接title可选。&lt;/p&gt;
+&lt;p&gt;超链接Markdown语法代码：&lt;code&gt;[超链接显示名](超链接地址 &amp;quot;超链接title&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;对应的HTML代码：&lt;code&gt;&amp;lt;a href=&amp;quot;超链接地址&amp;quot; title=&amp;quot;超链接title&amp;quot;&amp;gt;超链接显示名&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-图片语法&#34;&gt;Markdown 图片语法&lt;/h4&gt;
+&lt;p&gt;要添加图像，请使用感叹号 (&lt;code&gt;!&lt;/code&gt;), 然后在方括号增加替代文本，图片链接放在圆括号里，括号里的链接后可以增加一个可选的图片标题文本。&lt;/p&gt;
+&lt;p&gt;插入图片Markdown语法代码：&lt;code&gt;![图片alt](图片链接 &amp;quot;图片title&amp;quot;)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;对应的HTML代码：&lt;code&gt;&amp;lt;img src=&amp;quot;图片链接&amp;quot; alt=&amp;quot;图片alt&amp;quot; title=&amp;quot;图片title&amp;quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;markdown-转义字符语法&#34;&gt;Markdown 转义字符语法&lt;/h4&gt;
+&lt;p&gt;要显示原本用于格式化 Markdown 文档的字符，请在字符前面添加反斜杠字符 () 。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;\* Without the backslash, this would be a bullet in an unordered list.
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;-EOF-&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Margaret-Zhang.github.io/tags/markdown/" term="Markdown" label="Markdown" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
